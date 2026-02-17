@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#this is scrpt to add nginx in server
 
 
 
