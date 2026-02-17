@@ -14,3 +14,5 @@ sudo systemctl enable nginx
 
 
 some changes i am doing now
+
+some changes i am doing for ssh
