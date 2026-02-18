@@ -9,3 +9,5 @@ sudo systemctl start nginx
 sudo systemctl enable nginx
 
 echo "nginx installed works "
+
+#aws key token 
